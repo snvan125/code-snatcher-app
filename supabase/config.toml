@@ -1,0 +1,4 @@
+project_id = "placeholder"
+
+[functions.analyze-skin]
+verify_jwt = true
